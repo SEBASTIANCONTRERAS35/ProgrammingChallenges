@@ -28,7 +28,7 @@ int solution(const string& s1, const string& s2) {
 
     return commonCount;
 }
-int main() {
+/*int main() {
     // Casos de prueba
     cout << solution("aabcc", "adcaa") << endl;
     cout << solution("xyz", "abc") << endl;
@@ -42,4 +42,4 @@ int main() {
     cout << solution("abc", "aaabbbccc") << endl;
 
     return 0;
-}
+}*/
