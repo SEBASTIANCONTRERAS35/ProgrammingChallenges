@@ -26,7 +26,7 @@ for (int i=0;i<a.size();i++){
 
     return a;
 }
-int main() {
+/*int main() {
     // Ejemplo de entrada
     std::vector<int> a = {-1, 150, 190, 170, -1, -1, 160, 180};
 
@@ -39,4 +39,4 @@ int main() {
     std::cout << std::endl;
 
     return 0;
-}
+}*/
