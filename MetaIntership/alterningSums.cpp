@@ -14,7 +14,7 @@ vector<int> solution(vector<int> a) {
     return sizes;
 }
 
-int main() {
+/*int main() {
     // Example weights array
     std::vector<int> weights = {5, 10, 15, 20, 25, 30};
 
@@ -26,4 +26,4 @@ int main() {
     std::cout << "Team 2 weight: " << result[1] << std::endl;
 
     return 0;
-}
+}*/
