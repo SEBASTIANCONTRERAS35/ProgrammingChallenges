@@ -41,7 +41,7 @@ bool solution(vector<int> a, vector<int> b) {
     return true;
 }
 
-int main()
+/*int main()
 {
     std::vector<int> a ;
     std::vector<int> b;
@@ -52,4 +52,4 @@ int main()
 
     std::cout << (result ? "true" : "false") << std::endl;
     return 0;
-}
+}*/

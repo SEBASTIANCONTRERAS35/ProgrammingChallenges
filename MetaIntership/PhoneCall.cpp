@@ -1,6 +1,4 @@
-//
-// Created by Emilio Contreras on 30/01/24.
-//
+
 #include <iostream>
 using namespace std;
 int solution(int min1, int min2_10, int min11, int s) {
@@ -35,7 +33,7 @@ if (totalMin==10){
 }
 
 
-/*nt main() {
+/*int main() {
     int min1 = 1;    // Minutos requeridos para el primer período
     int min2_10 = 2; // Minutos requeridos para los siguientes 9 períodos
     int min11 = 1;   // Minutos requeridos para los períodos restantes
