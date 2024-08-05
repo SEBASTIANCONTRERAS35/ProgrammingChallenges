@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-bool solution(int yourLeft, int yourRight, int friendsLeft, int friendsRight) {
+/*bool solution(int yourLeft, int yourRight, int friendsLeft, int friendsRight) {
 
     int MyWeight = yourLeft + yourRight;
     int FriendWeight = friendsLeft + friendsRight;

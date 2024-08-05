@@ -2,7 +2,7 @@
 #include <vector>
 #include <unordered_map>
 
-bool solution(std::vector<int> sequence) {
+/*bool solution(std::vector<int> sequence) {
     int steps = 0;
     bool increasing = false;
     int max=sequence[0];

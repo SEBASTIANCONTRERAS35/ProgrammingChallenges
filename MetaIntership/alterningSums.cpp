@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-vector<int> solution(vector<int> a) {
+/*vector<int> solution(vector<int> a) {
 
     vector<int>sizes(2,0);
     for (int i=0;i<a.size();i++){

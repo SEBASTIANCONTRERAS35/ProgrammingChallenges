@@ -1,7 +1,7 @@
 
 #include <iostream>
 using namespace std;
-int solution(int min1, int min2_10, int min11, int s) {
+/*int solution(int min1, int min2_10, int min11, int s) {
     int totalMin=0;
     s-=min1;
     if (s>=0){

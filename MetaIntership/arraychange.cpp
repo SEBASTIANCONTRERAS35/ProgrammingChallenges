@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int solution(vector<int> inputArray) {
+/*int solution(vector<int> inputArray) {
     int moves = 0;
     for (int i = 1; i < inputArray.size(); i++) {
         if (inputArray[i] > inputArray[i - 1]) {

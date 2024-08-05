@@ -2,7 +2,7 @@
 #include <unordered_map>
 #include <string>
 
-bool solution(std::string inputString) {
+/*bool solution(std::string inputString) {
     int sizeWord = inputString.size();
     std::unordered_map<char, int> Nletras;
     for (int i = 0; i < inputString.size(); i++) {

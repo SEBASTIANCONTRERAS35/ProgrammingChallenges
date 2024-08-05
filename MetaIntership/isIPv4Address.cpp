@@ -5,7 +5,7 @@
 using namespace std;
 
 // Prototipo de la función solution
-bool solution(string inputString);
+/*bool solution(string inputString);
 
 /*int main() {
     // Casos de prueba
