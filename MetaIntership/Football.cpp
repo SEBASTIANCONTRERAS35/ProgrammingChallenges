@@ -3,7 +3,7 @@
 #include <string>
 #include <unordered_map>
 using namespace std;
-string winner(const vector<string>& jugadores){
+/*string winner(const vector<string>& jugadores){
     unordered_map<string,int> timesWin;
     for (const auto& jugador:jugadores){
         timesWin[jugador]++;
@@ -38,3 +38,4 @@ int main() {
 
     return 0;
 }
+*/
