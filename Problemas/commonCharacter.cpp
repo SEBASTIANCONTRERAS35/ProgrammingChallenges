@@ -2,7 +2,7 @@
 #include <iostream>
 #include <unordered_map>
 using namespace std;
-bool check(unordered_map<char, int> letters,char letter){
+/*bool check(unordered_map<char, int> letters,char letter){
     if (letters.find(letter)!=letters.end()){
         return true;
     }

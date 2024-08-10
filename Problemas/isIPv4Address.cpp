@@ -32,7 +32,7 @@ using namespace std;
 
     return 0;
 }*/
-
+/*
 bool solution(string inputString) {
     vector<string> cadenas;
     string newString;
@@ -72,3 +72,4 @@ bool solution(string inputString) {
     return valid;
 }
 
+*/
