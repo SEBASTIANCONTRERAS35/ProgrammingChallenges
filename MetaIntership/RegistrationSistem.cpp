@@ -2,7 +2,7 @@
 #include <string>
 #include <unordered_map>
 using namespace std;
-
+/*
 int main(){
     int n;
     unordered_map<string,int> baseDeDatos;
@@ -19,4 +19,4 @@ int main(){
         }
     }
     return 0;
-}
+}*/
