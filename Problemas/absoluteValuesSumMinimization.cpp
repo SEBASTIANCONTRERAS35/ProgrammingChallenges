@@ -2,7 +2,7 @@
 #include <cfloat>
 #include <vector>
 using namespace std;
-
+/*
 int solution(const vector<int>& a){
     double distance=DBL_MAX;
     int output;
@@ -55,3 +55,4 @@ int main() {
 
     return 0;
 }
+*/
