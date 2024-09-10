@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+/*
 int main (){
     int numTickets;
     cin>>numTickets;
@@ -23,4 +23,4 @@ int main (){
         }else cout<<"NO";
     }
     return 0;
-}
+}*/
