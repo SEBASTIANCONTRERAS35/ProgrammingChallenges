@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <string>
 #include <vector>
 using namespace std;
@@ -28,4 +28,4 @@ int main (){
         cout<<phraseOut[i];
     }
     return 0;
-}
+}*/
