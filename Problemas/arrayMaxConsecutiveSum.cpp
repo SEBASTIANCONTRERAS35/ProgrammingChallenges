@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 using namespace std;
 int solution(vector<int> inputArray, int k) {
@@ -34,4 +34,4 @@ int main (){
 
 
     return 0;
-}
+}*/
